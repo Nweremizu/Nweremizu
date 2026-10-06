@@ -16,7 +16,7 @@ I enjoy architecting reliable infrastructure, integrating AI into real products,
   <a href="https://github.com/Nweremizu">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28"/>
   </a>
-  <a href="https://www.linkedin.com/in/Nweremizu">
+  <a href="https://www.linkedin.com/in/bruno-nweremizu-6355b9208">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/>
   </a>
   <a href="https://twitter.com/Bruenx790">
